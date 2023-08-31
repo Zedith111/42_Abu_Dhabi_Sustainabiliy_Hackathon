@@ -1,4 +1,4 @@
-# 42 Abu Dhabi Sustainable Hackathon Repo
+# 42 Abu Dhabi Global Sustainability Hackathon Repo
 
 ### Machine Learning Models used
 - Linear Regression
