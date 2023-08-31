@@ -1,9 +1,15 @@
-# Sales Pridiction Colab files
+# 42 Abu Dhabi Sustainable Hackathon Repo
 
 ### Machine Learning Models used
 - Linear Regression
 - Random Forest Regression
 - ARIMA
 
-### Figma prototype link
+<hr>
+<br>
+
+**Dataset source**:
+[Dataset source](https://raw.githubusercontent.com/BekBrace/Sales-Forecast-data-csv/main/train.csv)
+
+**Figma prototype link**:
 [Figma Prototype](https://www.figma.com/proto/iztHJTDVTg4nO0LFWRG84G/42-Sustainability-Hackathon---Darkchocolate?type=design&node-id=121-6451&t=dxNIcv01ehHyVnNV-1&scaling=contain&page-id=0%3A1&starting-point-node-id=18%3A14831)
