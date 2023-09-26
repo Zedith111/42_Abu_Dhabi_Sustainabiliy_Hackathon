@@ -1,4 +1,10 @@
-# 42 Abu Dhabi Global Sustainability Hackathon Repo
+# 42 Abu Dhabi Global Sustainability Hackathon
+
+### Introduction 
+Repo that contain various file used for 42 Abu Dhabi Sustainability Hackathon.
+
+## About The Project
+FoodsAiver is a app that help to reduce food wastage in restaurant. It contain a inventory management system, enhanced by A.I prediction on customer forecast and suggestion on new menu item based on current inventory. A prototype of the app can be access throug the Figma link
 
 ### Machine Learning Models used
 - Linear Regression
